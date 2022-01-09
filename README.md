@@ -16,6 +16,13 @@
 ![2018_Data.png](Resources/2018_Data.PNG)
 
 ### Comparing the Code
+  To create the summarized view of data that supproted the above analysis we used VBA code. Two versions of that VBA code were tested and compared to decide which would run better in the final worksheet. The first version averaged around 1.69 seconds for each year
+  
+![VBA_Challenge_2017_OrigCode.png](Resources/VBA_Challenge_2017_OrigCode.png)![VBA_Challenge_2018_OrigCode.png](Resources/VBA_Challenge_2018_OrigCode.png)
+
+  The second version of the code ran much quicker. This refactored version averaged around 0.2 seconds. That huge difference shows that the refactored code is far more efficiant the the original version  
+  
+![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
 
 
 ## Summary

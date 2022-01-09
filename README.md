@@ -16,7 +16,7 @@
 ![2018_Data.png](Resources/2018_Data.PNG)
 
 ### Comparing the Code
-  To create the summarized view of data that supproted the above analysis we used VBA code. Two versions of that VBA code were tested and compared to decide which would run better in the final worksheet. The first version averaged around 1.69 seconds for each year
+  To create the summarized view of data that supported the above analysis we used VBA code. Two versions of that VBA code were tested and compared to decide which would run better in the final worksheet. The first version averaged around 1.69 seconds for each year
   
 ![VBA_Challenge_2017_OrigCode.png](Resources/VBA_Challenge_2017_OrigCode.png)![VBA_Challenge_2018_OrigCode.png](Resources/VBA_Challenge_2018_OrigCode.png)
 
